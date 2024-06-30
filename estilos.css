@@ -1,0 +1,50 @@
+.mujer{
+    width: 60px;
+    height: 120px;
+    position: absolute;
+    left: 385px;
+    top: 330px;
+    font-size: 180px;
+    color: brown
+    
+}
+
+.hombre{
+    width: 60px;
+    height: 120px;
+    position: absolute;
+    left: 90px;
+    top: 150px;
+    font-size: 180px;
+    color: brown
+
+}
+.imgd{
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    left: 30px;
+    top: 23px;
+
+
+}
+.contacto{
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    left: 30px;
+    top: 3850px;
+    font-size: 50px;
+    text-transform: capitalize;
+
+}
+.whatsapp{
+    width: 80px;
+    height: 60px;
+    position: absolute;
+    left: 20px;
+    top: 3920px;
+    font-size: 280px;
+
+
+}
